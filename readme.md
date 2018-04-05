@@ -1,4 +1,4 @@
 Repository Init Content
 =======================
 
-Your project description here.
+rewards is a project for multiple instances
